@@ -1,0 +1,8 @@
+{
+  "name": "So Elyoir 2B AI",
+  "description": "Personal 2B-inspired AI companion with custom character portraits, emotions, and OLED dark aesthetics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
